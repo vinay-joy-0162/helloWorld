@@ -2,5 +2,5 @@
 
 - [ ] PR
 - [ ] Branching
-- [ ] Forking 1
+- [X] Forking 1
 
